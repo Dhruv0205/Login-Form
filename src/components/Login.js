@@ -36,7 +36,7 @@ const Login = () => {
         navigate("/Browse");
     }
     else{
-        setErrorMessage("Email Doesn't exist");
+        setErrorMessage("Email Doesn't exist!! SignUp");
     }
    }
 
